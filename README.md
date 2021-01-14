@@ -1,8 +1,7 @@
-# TheCakeProject
-I dont know what im doing
-but i so hope this works
-god help
-thanks for reading!
-helllooooo
+# BelMic-Online-Cake-Ordering
+A DBMS mini project
+Online Cake ordering system
 
-NOW i CAAAN!!!!
+so screwed
+
+indeed:(
